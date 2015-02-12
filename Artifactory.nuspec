@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>Artifactory</id>
+    <title>Artifactory-3.5.1</title>
+    <version>3.5.1</version>
+    <authors>JFrog</authors>
+    <owners>JFrog</owners>
+    <summary>Artifactory 3.5.1 Open Source</summary>
+    <description>Artifactory 3.5.1 Open Source NuGet package</description>
+    <projectUrl>https://subversion.jfrog.org/artifactory/public/trunk</projectUrl>
+    <tags>sArtifactory OSS</tags>
+    <licenseUrl>http://www.opensource.org/licenses/lgpl-3.0.html</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance> <!-- or true if you require the user to accept the License before installing -->
+    <iconUrl>http://www.jfrog.com/wp-content/uploads/2014/05/logo.png</iconUrl>
+  </metadata>
+</package>
